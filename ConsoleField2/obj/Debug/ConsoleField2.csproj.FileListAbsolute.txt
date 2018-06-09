@@ -1,0 +1,7 @@
+C:\Coding\Binaire puzzle\ConsoleField2\bin\Debug\ConsoleField2.exe.config
+C:\Coding\Binaire puzzle\ConsoleField2\bin\Debug\ConsoleField2.exe
+C:\Coding\Binaire puzzle\ConsoleField2\bin\Debug\ConsoleField2.pdb
+C:\Coding\Binaire puzzle\ConsoleField2\obj\Debug\ConsoleField2.csproj.CoreCompileInputs.cache
+C:\Coding\Binaire puzzle\ConsoleField2\obj\Debug\ConsoleField2.exe
+C:\Coding\Binaire puzzle\ConsoleField2\obj\Debug\ConsoleField2.pdb
+C:\Coding\Binaire puzzle\ConsoleField2\obj\Debug\ConsoleField2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Coding\Binaire puzzle\ConsoleField1\bin\Debug\ConsoleField1.exe.config
+C:\Coding\Binaire puzzle\ConsoleField1\bin\Debug\ConsoleField1.exe
+C:\Coding\Binaire puzzle\ConsoleField1\bin\Debug\ConsoleField1.pdb
+C:\Coding\Binaire puzzle\ConsoleField1\obj\Debug\ConsoleField1.csproj.CoreCompileInputs.cache
+C:\Coding\Binaire puzzle\ConsoleField1\obj\Debug\ConsoleField1.exe
+C:\Coding\Binaire puzzle\ConsoleField1\obj\Debug\ConsoleField1.pdb

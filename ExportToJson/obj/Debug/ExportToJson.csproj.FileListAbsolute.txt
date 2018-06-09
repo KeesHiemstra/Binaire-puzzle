@@ -1,0 +1,7 @@
+C:\Coding\Binaire puzzle\ExportToJson\bin\Debug\ExportToJson.exe.config
+C:\Coding\Binaire puzzle\ExportToJson\bin\Debug\ExportToJson.exe
+C:\Coding\Binaire puzzle\ExportToJson\bin\Debug\ExportToJson.pdb
+C:\Coding\Binaire puzzle\ExportToJson\obj\Debug\ExportToJson.csprojResolveAssemblyReference.cache
+C:\Coding\Binaire puzzle\ExportToJson\obj\Debug\ExportToJson.csproj.CoreCompileInputs.cache
+C:\Coding\Binaire puzzle\ExportToJson\obj\Debug\ExportToJson.exe
+C:\Coding\Binaire puzzle\ExportToJson\obj\Debug\ExportToJson.pdb
